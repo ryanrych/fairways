@@ -1,0 +1,5 @@
+setup.py
+Fairways.egg-info/PKG-INFO
+Fairways.egg-info/SOURCES.txt
+Fairways.egg-info/dependency_links.txt
+Fairways.egg-info/top_level.txt
